@@ -29,7 +29,6 @@ body {
 
 .FAQCard {
   width: min(1200px,95%);
-  margin-top: 8rem;
 }
 
 .FAQ {
@@ -153,6 +152,9 @@ body {
   }
   h4 {
     text-align: left;
+  }
+  .FAQCard {
+    margin-top: 8rem;
   }
 }
 
